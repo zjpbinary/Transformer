@@ -1,2 +1,2 @@
 # Transformer
-Transformer简单实现，包含预处理与训练部分
+Transformer简单实现，预处理，训练，翻译
